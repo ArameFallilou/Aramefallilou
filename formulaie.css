@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+    background-image: url(image/F5F5F5.jpeg );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    padding: 50px;
+
+}
+
+.premiere {
+    font-size: 20px;
+
+}
+
+.fa-regular {
+    color: darkorange;
+}
+
+.deuxieme {
+    font-size: 20px;
+    color: #0C7464;
+}
+
+span {
+    color: orange;
+}
+
+.ca {
+    background-color: blue;
+    color: white;
+}
+
+.controle {
+    width: 50%;
+    height: 25px;
+    display: block;
+    font-size: 25px;
+    border: none;
+    border-bottom: 2px solid black;
+    background: none;
+    color: #fff;
+    padding: 7px;
+    margin-left: 50vh;
+}
+
+a {
+    text-decoration: none;
+    color: #0C7464;
+    padding: 10px;
+    margin-left: 75vh;
+    font-size: 20px;
+}
+
+.connecter {
+    background-color: #0C7464;
+    width: 100vh;
+    height: 50px;
+    color: #fff;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+strong {
+    color: blue;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.fin {
+    background-color: #fff;
+    text-align: center;
+    border: 1px solid #0C7464;
+    width: 45vh;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.fond {
+    color: black;
+    position: absolute;
+    top: 75vh;
+    font-size: 17px;
+    left: 95vh;
+
+}
+
+img {
+    margin-right: 50vh;
+    text-align: center;
+}
